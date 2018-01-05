@@ -2,12 +2,10 @@
 
 ### What this script does
 
-**1.** Navigate one folder up  
-**2.** Clone requested repo  
-**3.** Install dependencies  
-**4.** Open repo in VSCode  
-...  
-Profit
+**1.** Navigates one folder up  
+**2.** Clones requested repo  
+**3.** Installs dependencies  
+**4.** Opens repo in VSCode  
 
 #### How to use this magnificent piece of code:
 
