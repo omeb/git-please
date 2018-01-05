@@ -1,0 +1,23 @@
+{
+  "name": "git-please",
+  "version": "1.0.0",
+  "description": "git please",
+  "scripts": {},
+  "bin": {
+    "git-please": "./bin/gitplease.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omeb/git-please.git"
+  },
+  "keywords": [
+    "git",
+    "please"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omeb/git-please/issues"
+  },
+  "homepage": "https://github.com/omeb/git-please#readme"
+}
